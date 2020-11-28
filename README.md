@@ -144,6 +144,9 @@ namespace MyTestTutorial
 }
 ```
 
+## テストが通る
+<img width="167" alt="image.png (4.1 kB)" src="https://img.esa.io/uploads/production/attachments/11581/2020/11/28/50027/92131a67-27a8-45d3-a8ec-d0ddab5e67ad.png">
+
 ## テストケースを増やす
 ```csharp
 using Microsoft.VisualStudio.TestTools.UnitTesting;
