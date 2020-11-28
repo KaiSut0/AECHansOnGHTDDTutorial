@@ -108,6 +108,8 @@ namespace MyTestTutorial.Tests
 # TDD とは？
 TDD (Test Driven Development, テスト駆動開発) とは、まずプログラムに必要な機能のテストを書いて（テストファースト）、そのテストを通るような必要最低限の実装を行い、これを繰り返すことでコードを洗練化させる開発手法のことです。
 
+より詳しく知りたい方はこちらを参照してください。https://dev.classmethod.jp/articles/what-tdd/
+
 # TDD の流れ
 ・失敗するテストを書く
 ・できる限り早く、テストに通るような最小限のコードを書く
