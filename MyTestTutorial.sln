@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestTutorial", "MyTestTut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestTutorialTests", "MyTestTutorialTests\MyTestTutorialTests.csproj", "{35006304-6720-48C9-9A4C-8752EFCA4B7C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gh", "gh", "{BBD3F625-AA11-4E45-8A29-652D3FBA2E1E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\HandsOn\Kai_Suto\3rd\stair.3dm = ..\..\HandsOn\Kai_Suto\3rd\stair.3dm
+		..\..\HandsOn\Kai_Suto\3rd\TDDGH.gh = ..\..\HandsOn\Kai_Suto\3rd\TDDGH.gh
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
