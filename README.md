@@ -1,5 +1,5 @@
 ﻿# 必要な環境
-- Rhino 6 or later version
+- Rhino 7 WIP
 - Visual Studio 2017 or 2019
 
 # このハンズオンの目的と対象者
